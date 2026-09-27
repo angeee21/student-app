@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "fullname": "Mayls Docentes",
+    "studentNumber": "202400123",
+    "course": "BSIT",
+    "courseDescription": "Bachelor of Science in Information Technology",
+    "yearLevel": "3rd Year",
+    "sex": "Female"
+  },
+  {
+    "id": 2,
+    "fullname": "Angelica Tatchado",
+    "studentNumber": "202402185",
+    "course": "BSIT",
+    "courseDescription": "Bachelor of Science in Information Technology",
+    "yearLevel": "3rd Year",
+    "sex": "Female"
+  },
+  {
+    "id": 3,
+    "fullname": "JanJan Ordonio",
+    "studentNumber": "202401234",
+    "course": "BSIT",
+    "courseDescription": "Bachelor of Science in Information Technology",
+    "yearLevel": "3rd Year",
+    "sex": "Male"
+  }
+]
